@@ -19,7 +19,7 @@ class Landing extends React.Component {
             <Header as ='h3' inverted>For each contact, you can save their name, address, and phone number.</Header>
           </Grid.Column>
           <Grid.Column textAlign='center'>
-            <Icon size="huge" name="calender check" inverted />
+            <Icon size="huge" name="calendar check" inverted />
             <Header as ='h1' inverted>Timestamped Notes</Header>
             <Header as ='h3' inverted>Each time you make contact with a contact, you can write a note that summarizes the conversation.
               This note is saved along with a timestamp with the contact.</Header>
