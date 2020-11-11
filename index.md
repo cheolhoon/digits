@@ -1,4 +1,4 @@
-<img src="doc/landing.png">
+![]<img src="doc/landing.png">
 
 Digits is an application that allows users to:
 
@@ -114,7 +114,7 @@ The following sections describe the major features of this template.
 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
-<img src="doc/landing.png">
+![]<img src="doc/landing.png">
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
@@ -122,19 +122,19 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-<img src="doc/logIn.png">
+![]<img src="doc/logIn.png">
 
 ## Register page
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-<img src="doc/registerPage.png">
+![]<img src="doc/registerPage.png">
 
 ## Landing (after Login) page, non-Admin user
 
 Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
 
-<img src="doc/userPage.png">
+![]<img src="doc/userPage.png">
 
 You can now add new Stuff documents, and list the Stuff you have created. Note you cannot see any Stuff created by other users.
 
@@ -142,13 +142,13 @@ You can now add new Stuff documents, and list the Stuff you have created. Note y
 
 After logging in, here is the page that allows you to add new Stuff:
 
-<img src="doc/addPage.png">
+![]<img src="doc/addPage.png">
 
 ## List Stuff page
 
 After logging in, here is the page that allows you to list all the Stuff you have created:
 
-<img src="doc/listPage.png">
+![]<img src="doc/listPage.png">
 
 You click the "Edit" link to go to the Edit Stuff page, shown next.
 
@@ -156,16 +156,16 @@ You click the "Edit" link to go to the Edit Stuff page, shown next.
 
 After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save it:
 
-<img src="doc/editPage.png">
+![]<img src="doc/editPage.png">
 
 ## Landing (after Login), Admin user
 
 You can define an "admin" user in the settings.json file. This user, after logging in, gets a special entry in the navbar:
 
-<img src="doc/adminUser.png">
+![]<img src="doc/adminUser.png">
 
 ## Admin page (list all users stuff)
 
 To provide a simple example of a "super power" for Admin users, the Admin page lists all of the Stuff by all of the users:
 
-<img src="doc/adminPage.png">
+![]<img src="doc/adminPage.png">
